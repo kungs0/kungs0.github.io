@@ -1,4 +1,4 @@
-// Gruvbox color scheme
+// Gruvbox dark color scheme
 $gruvbox-dark0: #282828;
 $gruvbox-dark1: #3c3836;
 $gruvbox-dark2: #504945;
@@ -58,4 +58,45 @@ a {
 
 .post-content {
   color: $gruvbox-light2;
+}
+
+.sidebar {
+  background-color: $gruvbox-dark2;
+}
+
+.sidebar a {
+  color: $gruvbox-light1;
+}
+
+.sidebar a:hover {
+  color: $gruvbox-yellow;
+}
+
+.sidebar .sidebar-nav {
+  background-color: $gruvbox-dark3;
+}
+
+.sidebar .sidebar-nav a {
+  color: $gruvbox-light1;
+}
+
+.sidebar .sidebar-nav a:hover {
+  color: $gruvbox-yellow;
+}
+
+.header {
+  background-color: $gruvbox-dark1;
+}
+
+.header a {
+  color: $gruvbox-light1;
+}
+
+.header a:hover {
+  color: $gruvbox-yellow;
+}
+
+.footer {
+  background-color: $gruvbox-dark2;
+  color: $gruvbox-light1;
 }
