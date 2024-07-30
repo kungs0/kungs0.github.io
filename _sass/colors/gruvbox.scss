@@ -124,3 +124,26 @@ h1, h2, h3, h4, h5, h6 {
   background-color: $gruvbox-light3;
   color: $gruvbox-dark1;
 }
+
+
+.card-header {
+  background-color: $gruvbox-light1; /* Фоновый цвет для заголовка */
+  color: $gruvbox-dark1; /* Цвет текста */
+  border-bottom: 1px solid $gruvbox-light2; /* Цвет нижней границы */
+}
+
+.card-header a {
+  color: $gruvbox-dark1; /* Цвет ссылок */
+}
+
+.card-header a:hover {
+  color: $gruvbox-orange; /* Цвет ссылок при наведении */
+}
+
+.category-trigger {
+  color: $gruvbox-dark1; /* Цвет значка */
+}
+
+.category-trigger:hover {
+  color: $gruvbox-orange; /* Цвет значка при наведении */
+}
