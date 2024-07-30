@@ -1,252 +1,143 @@
-:root {
-  /* Gruvbox light color scheme */
-  --gruvbox-dark0: #282828;
-  --gruvbox-dark1: #3c3836;
-  --gruvbox-dark2: #504945;
-  --gruvbox-dark3: #665c54;
-  --gruvbox-dark4: #7c6f64;
+// Gruvbox light color scheme
+$gruvbox-dark0: #282828;
+$gruvbox-dark1: #3c3836;
+$gruvbox-dark2: #504945;
+$gruvbox-dark3: #665c54;
+$gruvbox-dark4: #7c6f64;
 
-  --gruvbox-medium: #928374;
+$gruvbox-medium: #928374;
 
-  --gruvbox-light0: #fbf1c7;
-  --gruvbox-light1: #ebdbb2;
-  --gruvbox-light2: #d5c4a1;
-  --gruvbox-light3: #bdae93;
-  --gruvbox-light4: #a89984;
+$gruvbox-light0: #fbf1c7;
+$gruvbox-light1: #ebdbb2;
+$gruvbox-light2: #d5c4a1;
+$gruvbox-light3: #bdae93;
+$gruvbox-light4: #a89984;
 
-  --gruvbox-red: #cc241d;
-  --gruvbox-green: #98971a;
-  --gruvbox-yellow: #d79921;
-  --gruvbox-blue: #458588;
-  --gruvbox-purple: #b16286;
-  --gruvbox-aqua: #689d6a;
-  --gruvbox-orange: #d65d0e;
+$gruvbox-red: #cc241d;
+$gruvbox-green: #98971a;
+$gruvbox-yellow: #d79921;
+$gruvbox-blue: #458588;
+$gruvbox-purple: #b16286;
+$gruvbox-aqua: #689d6a;
+$gruvbox-orange: #d65d0e;
 
-  /* Main colors */
-  --body-bg: var(--gruvbox-light0);
-  --text-color: var(--gruvbox-dark1);
-  --link-color: var(--gruvbox-blue);
-  --link-hover-color: var(--gruvbox-orange);
+// Main colors
+$body-bg: $gruvbox-light0;
+$text-color: $gruvbox-dark1;
+$link-color: $gruvbox-blue;
+$link-hover-color: $gruvbox-orange;
 
-  /* Gruvbox dark color scheme */
-  --gruvbox-dark-body-bg: var(--gruvbox-dark0);
-  --gruvbox-dark-text-color: var(--gruvbox-light1);
-  --gruvbox-dark-link-color: var(--gruvbox-blue);
-  --gruvbox-dark-link-hover-color: var(--gruvbox-orange);
-}
-
-/* Light theme */
+// Apply Gruvbox colors
 body {
-  background-color: var(--body-bg);
-  color: var(--text-color);
+  background-color: $body-bg;
+  color: $text-color;
 }
 
 a {
-  color: var(--link-color);
+  color: $link-color;
   &:hover {
-    color: var(--link-hover-color);
+    color: $link-hover-color;
   }
 }
 
 .navbar, .footer {
-  background-color: var(--gruvbox-light2);
-  color: var(--text-color);
+  background-color: $gruvbox-light2;
+  color: $gruvbox-dark1;
 }
 
 .navbar a, .footer a {
-  color: var(--text-color);
+  color: $gruvbox-dark1;
 }
 
 .navbar a:hover, .footer a:hover {
-  color: var(--link-hover-color);
+  color: $gruvbox-orange;
 }
 
 .post-title {
-  color: var(--gruvbox-dark0);
+  color: $gruvbox-dark0;
 }
 
 .post-content {
-  color: var(--gruvbox-dark2);
+  color: $gruvbox-dark2;
 }
 
 .sidebar {
-  background-color: var(--gruvbox-light1);
-  color: var(--text-color);
+  background-color: $gruvbox-light1;
+  color: $gruvbox-dark1;
 }
 
 .sidebar a {
-  color: var(--text-color);
+  color: $gruvbox-dark1;
 }
 
 .sidebar a:hover {
-  color: var(--link-hover-color);
+  color: $gruvbox-orange;
 }
 
 .sidebar .sidebar-nav {
-  background-color: var(--gruvbox-light3);
+  background-color: $gruvbox-light3;
 }
 
 .sidebar .sidebar-nav a {
-  color: var(--text-color);
+  color: $gruvbox-dark1;
 }
 
 .sidebar .sidebar-nav a:hover {
-  color: var(--link-hover-color);
+  color: $gruvbox-orange;
 }
 
 .header {
-  background-color: var(--gruvbox-light2);
-  color: var(--text-color);
+  background-color: $gruvbox-light2;
+  color: $gruvbox-dark1;
 }
 
 .header a {
-  color: var(--text-color);
+  color: $gruvbox-dark1;
 }
 
 .header a:hover {
-  color: var(--link-hover-color);
+  color: $gruvbox-orange;
 }
 
 .footer {
-  background-color: var(--gruvbox-light3);
-  color: var(--text-color);
+  background-color: $gruvbox-light3;
+  color: $gruvbox-dark1;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: var(--gruvbox-dark0);
+  color: $gruvbox-dark0;
 }
 
 .nav-link {
-  color: var(--text-color);
+  color: $gruvbox-dark1;
   &:hover {
-    color: var(--link-hover-color);
+    color: $gruvbox-orange;
   }
 }
 
 .search {
-  background-color: var(--gruvbox-light2);
-  color: var(--text-color);
+  background-color: $gruvbox-light2;
+  color: $gruvbox-dark1;
 }
 
 .search input {
-  background-color: var(--gruvbox-light3);
-  color: var(--text-color);
+  background-color: $gruvbox-light3;
+  color: $gruvbox-dark1;
 }
+
+
+// Editing
+
 
 .card-header {
-  background-color: var(--body-bg); /* или другой нужный цвет */
-  color: var(--text-color); /* цвет текста, если нужно */
+  background-color: $gruvbox-light0; /* или другой нужный цвет */
+  color: $gruvbox-dark1; /* цвет текста, если нужно */
 }
+
 
 .list-group-item {
-  background-color: var(--body-bg); /* или другой нужный цвет */
-  color: var(--text-color); /* цвет текста, если нужно */
+  background-color: $gruvbox-light0; /* или другой нужный цвет */
+  color: $gruvbox-dark1; /* цвет текста, если нужно */
 }
 
-/* Dark theme */
-[data-theme="dark"] {
-  --body-bg: var(--gruvbox-dark-body-bg);
-  --text-color: var(--gruvbox-dark-text-color);
-  --link-color: var(--gruvbox-dark-link-color);
-  --link-hover-color: var(--gruvbox-dark-link-hover-color);
 
-  body {
-    background-color: var(--body-bg);
-    color: var(--text-color);
-  }
-
-  .navbar, .footer {
-    background-color: var(--gruvbox-dark3);
-    color: var(--text-color);
-  }
-
-  .navbar a, .footer a {
-    color: var(--text-color);
-  }
-
-  .navbar a:hover, .footer a:hover {
-    color: var(--link-hover-color);
-  }
-
-  .post-title {
-    color: var(--gruvbox-light1);
-  }
-
-  .post-content {
-    color: var(--gruvbox-light3);
-  }
-
-  .sidebar {
-    background-color: var(--gruvbox-dark2);
-    color: var(--text-color);
-  }
-
-  .sidebar a {
-    color: var(--text-color);
-  }
-
-  .sidebar a:hover {
-    color: var(--link-hover-color);
-  }
-
-  .sidebar .sidebar-nav {
-    background-color: var(--gruvbox-dark4);
-  }
-
-  .sidebar .sidebar-nav a {
-    color: var(--text-color);
-  }
-
-  .sidebar .sidebar-nav a:hover {
-    color: var(--link-hover-color);
-  }
-
-  .header {
-    background-color: var(--gruvbox-dark3);
-    color: var(--text-color);
-  }
-
-  .header a {
-    color: var(--text-color);
-  }
-
-  .header a:hover {
-    color: var(--link-hover-color);
-  }
-
-  .footer {
-    background-color: var(--gruvbox-dark4);
-    color: var(--text-color);
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    color: var(--gruvbox-light1);
-  }
-
-  .nav-link {
-    color: var(--text-color);
-    &:hover {
-      color: var(--link-hover-color);
-    }
-  }
-
-  .search {
-    background-color: var(--gruvbox-dark3);
-    color: var(--text-color);
-  }
-
-  .search input {
-    background-color: var(--gruvbox-dark4);
-    color: var(--text-color);
-  }
-
-  .card-header {
-    background-color: var(--body-bg); /* или другой нужный цвет */
-    color: var(--text-color); /* цвет текста, если нужно */
-  }
-
-  .list-group-item {
-    background-color: var(--body-bg); /* или другой нужный цвет */
-    color: var(--text-color); /* цвет текста, если нужно */
-  }
-}
