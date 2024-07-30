@@ -1,0 +1,61 @@
+// Gruvbox color scheme
+$gruvbox-dark0: #282828;
+$gruvbox-dark1: #3c3836;
+$gruvbox-dark2: #504945;
+$gruvbox-dark3: #665c54;
+$gruvbox-dark4: #7c6f64;
+
+$gruvbox-medium: #928374;
+
+$gruvbox-light0: #fbf1c7;
+$gruvbox-light1: #ebdbb2;
+$gruvbox-light2: #d5c4a1;
+$gruvbox-light3: #bdae93;
+$gruvbox-light4: #a89984;
+
+$gruvbox-red: #fb4934;
+$gruvbox-green: #b8bb26;
+$gruvbox-yellow: #fabd2f;
+$gruvbox-blue: #83a598;
+$gruvbox-purple: #d3869b;
+$gruvbox-aqua: #8ec07c;
+$gruvbox-orange: #fe8019;
+
+// Main colors
+$body-bg: $gruvbox-dark0;
+$text-color: $gruvbox-light1;
+$link-color: $gruvbox-blue;
+$link-hover-color: $gruvbox-yellow;
+
+// Apply Gruvbox colors
+body {
+  background-color: $body-bg;
+  color: $text-color;
+}
+
+a {
+  color: $link-color;
+  &:hover {
+    color: $link-hover-color;
+  }
+}
+
+.navbar, .footer {
+  background-color: $gruvbox-dark1;
+}
+
+.navbar a, .footer a {
+  color: $gruvbox-light1;
+}
+
+.navbar a:hover, .footer a:hover {
+  color: $gruvbox-yellow;
+}
+
+.post-title {
+  color: $gruvbox-light0;
+}
+
+.post-content {
+  color: $gruvbox-light2;
+}
