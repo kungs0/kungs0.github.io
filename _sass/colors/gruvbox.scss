@@ -1,143 +1,66 @@
-// Gruvbox light color scheme
-$gruvbox-dark0: #282828;
-$gruvbox-dark1: #3c3836;
-$gruvbox-dark2: #504945;
-$gruvbox-dark3: #665c54;
-$gruvbox-dark4: #7c6f64;
+:root {
+  --gruvbox-bg-dark: #282828;
+  --gruvbox-bg-light: #fbf1c7;
+  --gruvbox-fg-dark: #ebdbb2;
+  --gruvbox-fg-light: #3c3836;
+  --gruvbox-red: #cc241d;
+  --gruvbox-green: #98971a;
+  --gruvbox-yellow: #d79921;
+  --gruvbox-blue: #458588;
+  --gruvbox-purple: #b16286;
+  --gruvbox-aqua: #689d6a;
+  --gruvbox-orange: #d65d0e;
+}
 
-$gruvbox-medium: #928374;
+[data-mode="dark"] {
+  --background-color: var(--gruvbox-bg-dark);
+  --text-color: var(--gruvbox-fg-dark);
+  --link-color: var(--gruvbox-blue);
+  --hover-color: var(--gruvbox-yellow);
+  --header-footer-bg: var(--gruvbox-bg-dark);
+  --header-footer-fg: var(--gruvbox-fg-dark);
+  --button-bg: var(--gruvbox-blue);
+  --button-fg: var(--gruvbox-fg-dark);
+  --button-hover-bg: var(--gruvbox-aqua);
+}
 
-$gruvbox-light0: #fbf1c7;
-$gruvbox-light1: #ebdbb2;
-$gruvbox-light2: #d5c4a1;
-$gruvbox-light3: #bdae93;
-$gruvbox-light4: #a89984;
+[data-mode="light"] {
+  --background-color: var(--gruvbox-bg-light);
+  --text-color: var(--gruvbox-fg-light);
+  --link-color: var(--gruvbox-blue);
+  --hover-color: var(--gruvbox-orange);
+  --header-footer-bg: var(--gruvbox-bg-light);
+  --header-footer-fg: var(--gruvbox-fg-light);
+  --button-bg: var(--gruvbox-blue);
+  --button-fg: var(--gruvbox-fg-light);
+  --button-hover-bg: var(--gruvbox-aqua);
+}
 
-$gruvbox-red: #cc241d;
-$gruvbox-green: #98971a;
-$gruvbox-yellow: #d79921;
-$gruvbox-blue: #458588;
-$gruvbox-purple: #b16286;
-$gruvbox-aqua: #689d6a;
-$gruvbox-orange: #d65d0e;
-
-// Main colors
-$body-bg: $gruvbox-light0;
-$text-color: $gruvbox-dark1;
-$link-color: $gruvbox-blue;
-$link-hover-color: $gruvbox-orange;
-
-// Apply Gruvbox colors
 body {
-  background-color: $body-bg;
-  color: $text-color;
+  background-color: var(--background-color);
+  color: var(--text-color);
 }
 
 a {
-  color: $link-color;
-  &:hover {
-    color: $link-hover-color;
-  }
+  color: var(--link-color);
 }
 
-.navbar, .footer {
-  background-color: $gruvbox-light2;
-  color: $gruvbox-dark1;
+a:hover {
+  color: var(--hover-color);
 }
 
-.navbar a, .footer a {
-  color: $gruvbox-dark1;
+header, footer {
+  background-color: var(--header-footer-bg);
+  color: var(--header-footer-fg);
 }
 
-.navbar a:hover, .footer a:hover {
-  color: $gruvbox-orange;
+button {
+  background-color: var(--button-bg);
+  color: var(--button-fg);
 }
 
-.post-title {
-  color: $gruvbox-dark0;
+button:hover {
+  background-color: var(--button-hover-bg);
 }
 
-.post-content {
-  color: $gruvbox-dark2;
-}
-
-.sidebar {
-  background-color: $gruvbox-light1;
-  color: $gruvbox-dark1;
-}
-
-.sidebar a {
-  color: $gruvbox-dark1;
-}
-
-.sidebar a:hover {
-  color: $gruvbox-orange;
-}
-
-.sidebar .sidebar-nav {
-  background-color: $gruvbox-light3;
-}
-
-.sidebar .sidebar-nav a {
-  color: $gruvbox-dark1;
-}
-
-.sidebar .sidebar-nav a:hover {
-  color: $gruvbox-orange;
-}
-
-.header {
-  background-color: $gruvbox-light2;
-  color: $gruvbox-dark1;
-}
-
-.header a {
-  color: $gruvbox-dark1;
-}
-
-.header a:hover {
-  color: $gruvbox-orange;
-}
-
-.footer {
-  background-color: $gruvbox-light3;
-  color: $gruvbox-dark1;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: $gruvbox-dark0;
-}
-
-.nav-link {
-  color: $gruvbox-dark1;
-  &:hover {
-    color: $gruvbox-orange;
-  }
-}
-
-.search {
-  background-color: $gruvbox-light2;
-  color: $gruvbox-dark1;
-}
-
-.search input {
-  background-color: $gruvbox-light3;
-  color: $gruvbox-dark1;
-}
-
-
-// Editing
-
-
-.card-header {
-  background-color: $gruvbox-light0; /* или другой нужный цвет */
-  color: $gruvbox-dark1; /* цвет текста, если нужно */
-}
-
-
-.list-group-item {
-  background-color: $gruvbox-light0; /* или другой нужный цвет */
-  color: $gruvbox-dark1; /* цвет текста, если нужно */
-}
-
-
+/* Add any other custom styles needed for your theme */
