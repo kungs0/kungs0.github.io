@@ -1,4 +1,4 @@
-// Gruvbox dark color scheme
+// Gruvbox light color scheme
 $gruvbox-dark0: #282828;
 $gruvbox-dark1: #3c3836;
 $gruvbox-dark2: #504945;
@@ -13,19 +13,19 @@ $gruvbox-light2: #d5c4a1;
 $gruvbox-light3: #bdae93;
 $gruvbox-light4: #a89984;
 
-$gruvbox-red: #fb4934;
-$gruvbox-green: #b8bb26;
-$gruvbox-yellow: #fabd2f;
-$gruvbox-blue: #83a598;
-$gruvbox-purple: #d3869b;
-$gruvbox-aqua: #8ec07c;
-$gruvbox-orange: #fe8019;
+$gruvbox-red: #cc241d;
+$gruvbox-green: #98971a;
+$gruvbox-yellow: #d79921;
+$gruvbox-blue: #458588;
+$gruvbox-purple: #b16286;
+$gruvbox-aqua: #689d6a;
+$gruvbox-orange: #d65d0e;
 
 // Main colors
-$body-bg: $gruvbox-dark0;
-$text-color: $gruvbox-light1;
+$body-bg: $gruvbox-light0;
+$text-color: $gruvbox-dark1;
 $link-color: $gruvbox-blue;
-$link-hover-color: $gruvbox-yellow;
+$link-hover-color: $gruvbox-orange;
 
 // Apply Gruvbox colors
 body {
@@ -41,65 +41,86 @@ a {
 }
 
 .navbar, .footer {
-  background-color: $gruvbox-dark1;
-  color: $gruvbox-light1;
+  background-color: $gruvbox-light2;
+  color: $gruvbox-dark1;
 }
 
 .navbar a, .footer a {
-  color: $gruvbox-light1;
+  color: $gruvbox-dark1;
 }
 
 .navbar a:hover, .footer a:hover {
-  color: $gruvbox-yellow;
+  color: $gruvbox-orange;
 }
 
 .post-title {
-  color: $gruvbox-light0;
+  color: $gruvbox-dark0;
 }
 
 .post-content {
-  color: $gruvbox-light2;
+  color: $gruvbox-dark2;
 }
 
 .sidebar {
-  background-color: $gruvbox-dark2;
-  color: $gruvbox-light1;
+  background-color: $gruvbox-light1;
+  color: $gruvbox-dark1;
 }
 
 .sidebar a {
-  color: $gruvbox-light1;
+  color: $gruvbox-dark1;
 }
 
 .sidebar a:hover {
-  color: $gruvbox-yellow;
+  color: $gruvbox-orange;
 }
 
 .sidebar .sidebar-nav {
-  background-color: $gruvbox-dark3;
+  background-color: $gruvbox-light3;
 }
 
 .sidebar .sidebar-nav a {
-  color: $gruvbox-light1;
+  color: $gruvbox-dark1;
 }
 
 .sidebar .sidebar-nav a:hover {
-  color: $gruvbox-yellow;
+  color: $gruvbox-orange;
 }
 
 .header {
-  background-color: $gruvbox-dark1;
-  color: $gruvbox-light1;
+  background-color: $gruvbox-light2;
+  color: $gruvbox-dark1;
 }
 
 .header a {
-  color: $gruvbox-light1;
+  color: $gruvbox-dark1;
 }
 
 .header a:hover {
-  color: $gruvbox-yellow;
+  color: $gruvbox-orange;
 }
 
 .footer {
-  background-color: $gruvbox-dark2;
-  color: $gruvbox-light1;
+  background-color: $gruvbox-light3;
+  color: $gruvbox-dark1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $gruvbox-dark0;
+}
+
+.nav-link {
+  color: $gruvbox-dark1;
+  &:hover {
+    color: $gruvbox-orange;
+  }
+}
+
+.search {
+  background-color: $gruvbox-light2;
+  color: $gruvbox-dark1;
+}
+
+.search input {
+  background-color: $gruvbox-light3;
+  color: $gruvbox-dark1;
 }
