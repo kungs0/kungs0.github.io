@@ -126,7 +126,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Custom styles for Categories */
-.category-card {
+.category-card,
+.category-card .card-header,
+.category-card .card-body,
+.category-card .card-footer,
+.category-card .list-group-item,
+.category-card .list-group-item a,
+.category-card .list-group-item .badge {
   background-color: $gruvbox-light2;
   color: $gruvbox-dark1;
 }
@@ -139,36 +145,6 @@ h1, h2, h3, h4, h5, h6 {
   color: $link-hover-color;
 }
 
-.category-card .card-header {
-  background-color: $gruvbox-light1;
-  color: $gruvbox-dark1;
-}
-
-.category-card .card-body {
-  background-color: $gruvbox-light0;
-  color: $gruvbox-dark1;
-}
-
-.category-card .card-footer {
-  background-color: $gruvbox-light1;
-  color: $gruvbox-dark1;
-}
-
-/* Additional styles for possible elements */
-.category-card .list-group-item {
-  background-color: $gruvbox-light0;
-  color: $gruvbox-dark1;
-}
-
-.category-card .list-group-item a {
-  color: $link-color;
-}
-
 .category-card .list-group-item a:hover {
   color: $link-hover-color;
-}
-
-.category-card .list-group-item .badge {
-  background-color: $gruvbox-light2;
-  color: $gruvbox-dark1;
 }
