@@ -125,25 +125,31 @@ h1, h2, h3, h4, h5, h6 {
   color: $gruvbox-dark1;
 }
 
-
-.card-header {
-  background-color: $gruvbox-light1; /* Фоновый цвет для заголовка */
-  color: $gruvbox-dark1; /* Цвет текста */
-  border-bottom: 1px solid $gruvbox-light2; /* Цвет нижней границы */
+/* Custom styles for Categories */
+.category-card {
+  background-color: $gruvbox-light2;
+  color: $gruvbox-dark1;
 }
 
-.card-header a {
-  color: $gruvbox-dark1; /* Цвет ссылок */
+.category-card a {
+  color: $link-color;
 }
 
-.card-header a:hover {
-  color: $gruvbox-orange; /* Цвет ссылок при наведении */
+.category-card a:hover {
+  color: $link-hover-color;
 }
 
-.category-trigger {
-  color: $gruvbox-dark1; /* Цвет значка */
+.category-card .card-header {
+  background-color: $gruvbox-light1;
+  color: $gruvbox-dark1;
 }
 
-.category-trigger:hover {
-  color: $gruvbox-orange; /* Цвет значка при наведении */
+.category-card .card-body {
+  background-color: $gruvbox-light0;
+  color: $gruvbox-dark1;
+}
+
+.category-card .card-footer {
+  background-color: $gruvbox-light1;
+  color: $gruvbox-dark1;
 }
