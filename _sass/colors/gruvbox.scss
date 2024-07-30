@@ -153,3 +153,22 @@ h1, h2, h3, h4, h5, h6 {
   background-color: $gruvbox-light1;
   color: $gruvbox-dark1;
 }
+
+/* Additional styles for possible elements */
+.category-card .list-group-item {
+  background-color: $gruvbox-light0;
+  color: $gruvbox-dark1;
+}
+
+.category-card .list-group-item a {
+  color: $link-color;
+}
+
+.category-card .list-group-item a:hover {
+  color: $link-hover-color;
+}
+
+.category-card .list-group-item .badge {
+  background-color: $gruvbox-light2;
+  color: $gruvbox-dark1;
+}
