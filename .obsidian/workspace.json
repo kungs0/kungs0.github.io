@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-30-test.md",
+                "file": "_posts/2024-07-30-test2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-30-test.md",
+                "file": "_posts/2024-07-30-test2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-30-test.md",
+                "file": "_posts/2024-07-30-test2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-30-test.md"
+                "file": "_posts/2024-07-30-test2.md"
               }
             }
           }
@@ -149,7 +149,8 @@
   },
   "active": "a9805f4c58a4ade0",
   "lastOpenFiles": [
-    "README.md",
-    "_posts/2024-07-30-test.md"
+    "_posts/2024-07-30-test.md",
+    "_posts/2024-07-30-test2.md",
+    "README.md"
   ]
 }

@@ -141,37 +141,3 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-// Editing 2
-
-/* Стили для всего элемента списка */
-li {
-  background-color: $gruvbox-light0; /* Замените на нужный цвет */
-  color: $gruvbox-dark1; /* Замените на нужный цвет текста */
-  padding: 0.5rem;
-  border-radius: 0.375rem;
-  margin-bottom: 0.5rem;
-}
-
-/* Стили для даты (день) */
-li .date.day {
-  background-color: $gruvbox-light1; /* Замените на нужный цвет */
-  color: $gruvbox-dark1; /* Замените на нужный цвет текста */
-  padding: 0.2rem 0.5rem;
-  border-radius: 0.375rem;
-  display: inline-block;
-}
-
-/* Стили для даты (месяц) */
-li .date.month {
-  color: $gruvbox-dark2; /* Замените на нужный цвет текста */
-}
-
-/* Стили для ссылки */
-li a {
-  color: $gruvbox-dark1; /* Замените на нужный цвет текста */
-  text-decoration: none;
-}
-
-li a:hover {
-  text-decoration: underline;
-}
