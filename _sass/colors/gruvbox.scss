@@ -125,41 +125,4 @@ h1, h2, h3, h4, h5, h6 {
   color: $gruvbox-dark1;
 }
 
-/* Custom styles for Categories */
-.card-header, .card-body, .card-footer, .list-group-item, .list-group-item a, .list-group-item .badge {
-  background-color: $gruvbox-light0;
-  color: $gruvbox-dark1;
-}
 
-.card-header {
-  background-color: $gruvbox-light2;
-  color: $gruvbox-dark1;
-}
-
-.card-body {
-  background-color: $gruvbox-light1;
-  color: $gruvbox-dark1;
-}
-
-.card-footer {
-  background-color: $gruvbox-light3;
-  color: $gruvbox-dark1;
-}
-
-.list-group-item {
-  background-color: $gruvbox-light4;
-  color: $gruvbox-dark1;
-}
-
-.list-group-item a {
-  color: $link-color;
-}
-
-.list-group-item a:hover {
-  color: $link-hover-color;
-}
-
-.list-group-item .badge {
-  background-color: $gruvbox-light3;
-  color: $gruvbox-dark1;
-}
