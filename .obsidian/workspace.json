@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-30-test.md",
+                "file": "_posts/2024-07-26-TestOfSyntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-30-test.md",
+                "file": "_posts/2024-07-26-TestOfSyntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-30-test.md",
+                "file": "_posts/2024-07-26-TestOfSyntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-30-test.md"
+                "file": "_posts/2024-07-26-TestOfSyntax.md"
               }
             }
           }
@@ -149,10 +149,20 @@
   },
   "active": "a9805f4c58a4ade0",
   "lastOpenFiles": [
+    "_posts/2024-07-26-Apstākļa vārds.md",
+    "_posts/2024-07-30-test.md",
+    "_posts/2024-07-28-Latvijas svētki.md",
+    "_posts/2024-07-26-Vietniekvārds.md",
+    "_posts/2024-07-26-TestOfSyntax.md",
+    "_posts/2024-07-26-Srav.md",
+    "_posts/2024-07-26-Soedn.md",
+    "_posts/2024-07-26-Skaitļa Vārds.md",
+    "_posts/2024-07-26-Prievārds.md",
+    "_posts/2024-07-26-Lietvārds.md",
+    "_posts/2024-07-26-Īpašības vārds.md",
+    "_posts/2024-07-26-Darbības vārds.md",
     "Briiviibas_piemineklis.jpg",
     "Briiviibas_piemineklis.jpg.crdownload",
-    "_posts/2024-07-30-test.md",
-    "_posts/2024-07-30-test.md",
     "_posts/2024-07-30-test2.md",
     "README.md"
   ]
