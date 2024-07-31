@@ -79,9 +79,9 @@ categories: test pirmais
 
 ### Iegultie faili
 
-You can download the file [here](/assets/download.pdf).
+
 
 
 ### pdf reader
 
-<iframe src="/assets/download.pdf" width="100%" height="600px"> This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/download.pdf">Download PDF</a> </iframe>
+
