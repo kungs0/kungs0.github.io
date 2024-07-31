@@ -2,6 +2,7 @@
 categories: Saraksti, A1
 ---
 
+<div class="table-responsive">
 | Īpašības vārds              | Latviski      | Lietošanas piemērs                                                     |
 | --------------------------- | ------------- | ---------------------------------------------------------------------- |
 | Напуганный                  | nobijies      | Es jūtos nobijies. (Я чувствую себя напуганным.)                       |
@@ -84,3 +85,4 @@ categories: Saraksti, A1
 | Ответственный, надежный     | atbildīgs     | Viņa ir ļoti atbildīga persona. (Она очень ответственная личность.)    |
 | Грустный                    | skumjš        | Viņš izskatās skumjš. (Он выглядит грустным.)                          |
 | Международный               | starptautisks | Tā ir starptautiska organizācija. (Это международная организация.)     |
+</div>

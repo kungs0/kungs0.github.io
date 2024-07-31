@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68a59e1b6eaafdab",
+        "id": "137448a00d0235c7",
         "type": "tabs",
         "children": [
           {
-            "id": "a9805f4c58a4ade0",
+            "id": "6d3824e498f30743",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-26-TestOfSyntax.md",
+                "file": "_posts/2024-07-26-Srav.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-26-TestOfSyntax.md",
+                "file": "_posts/2024-07-26-Srav.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-26-TestOfSyntax.md",
+                "file": "_posts/2024-07-26-Srav.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-26-TestOfSyntax.md"
+                "file": "_posts/2024-07-26-Srav.md"
               }
             }
           }
@@ -147,8 +147,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "25667a0a56d6929a",
+  "active": "6d3824e498f30743",
   "lastOpenFiles": [
+    "_tabs/about.md",
+    "ava.jpg",
+    "_posts/2024-07-26-TestOfSyntax.md",
     "assets/download.pdf",
     "assets/test.webm",
     "_posts/2024-07-28-Latvijas svētki.md",
@@ -160,7 +163,6 @@
     "_posts/2024-07-26-Soedn.md",
     "_posts/2024-07-26-Skaitļa Vārds.md",
     "_posts/2024-07-26-Srav.md",
-    "_posts/2024-07-26-TestOfSyntax.md",
     "_posts/2024-07-26-Vietniekvārds.md",
     "_posts/2024-07-26-Lietvārds.md",
     "Briiviibas_piemineklis.jpg",
