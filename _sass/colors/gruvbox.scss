@@ -218,3 +218,39 @@ tbody + tbody {
   background: #cccccc;
   border-radius: 0.25rem;
 }
+
+//editing 4
+.markdown-body table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 0.75rem;
+  border: 1px solid #dee2e6;
+  word-wrap: break-word; /* Позволяет перенос слов */
+}
+
+.markdown-body table th {
+  background-color: #f8f9fa;
+  text-align: left;
+}
+
+.markdown-body table td {
+  max-width: 200px; /* Пример, измените по необходимости */
+  overflow-wrap: break-word; /* Позволяет перенос слов */
+}
+
+//editing 5
+.markdown-body table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 0.75rem;
+  border: 1px solid #dee2e6;
+  text-align: left; /* Выравнивание по левому краю */
+}
