@@ -1,8 +1,6 @@
 ---
 title: Ezeri un Upes
 categories: Ģeogrāfija Dabas-Bagātības
-tags:
-  - Ģeogrāfija
 image: images/upe.jpg
 ---
 >Šodien pētīsim Latvijas iekšējos ūdeņus

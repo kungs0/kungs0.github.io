@@ -2,7 +2,6 @@
 title: Latvijas Satversme
 categories: Valsts Satversme
 date: 2024-09-03
-tags: 
 image: images/previewsatversme.jpg
 ---
 >Kāpēc?
