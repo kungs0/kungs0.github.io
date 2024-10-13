@@ -1,8 +1,6 @@
 ---
 title: Jānis Čakste
 categories: Dzīve Politika
-tags:
-  - Politika
 image: images/Janis_Cakste.jpg
 date: 2024-09-12
 ---
