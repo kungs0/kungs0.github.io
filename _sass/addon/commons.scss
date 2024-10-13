@@ -205,13 +205,8 @@ i {
 }
 
 #panel-wrapper {
-  /* the headings */
-  .panel-heading {
-    font-family: inherit;
-    line-height: inherit;
-
-    @include label(inherit);
-  }
+  display: none !important;
+}
 
   .post-tag {
     line-height: 1.05rem;
@@ -224,7 +219,6 @@ i {
       transition: all 0.3s ease-in;
     }
   }
-}
 
 #access-lastmod {
   a {
