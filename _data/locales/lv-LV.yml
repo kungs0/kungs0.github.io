@@ -1,0 +1,86 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: Raksts
+  category: Kategorija
+  tag: Atslēgvārds
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Sākumlapa
+  categories: Kategorijas
+  tags: Atslēgvārdi
+  archives: Arhīvs
+  about: Par mani
+
+# the text displayed in the search bar & search results
+search:
+  hint: meklēt
+  cancel: Atcelt
+  no_results: Oops! Nekas netika atrasts.
+
+panel:
+  lastmod: Pēdējoreiz atjaunots
+  trending_tags: Populārās atslēgvārdi
+  toc: Saturs
+
+# copyright:
+#   # Shown at the bottom of the post
+#   license:
+#     template: Autora darbs ir aizsargāts ar licenci :LICENSE_NAME.
+#     name: CC BY 4.0
+#     link: https://creativecommons.org/licenses/by/4.0/
+
+#   # Displayed in the footer
+#   brief: Dažas tiesības aizsargātas.
+#   verbose: >-
+#     Ja nav norādīts citādi, autora darbi šajā vietnē ir aizsargāti ar Creative Commons Attribution 4.0 International (CC BY 4.0) licenci.
+
+
+not_found:
+  statment: Atvainojiet, mēs esam sajaukuši URL adresi vai tā norāda uz neesošu vietu.
+
+notification:
+  update_found: Pieejama jauna satura versija.
+  update: Atjaunināt
+
+# ----- Posts related labels -----
+
+post:
+  written_by: Autors
+  posted: Publicēts
+  updated: Atjaunināts
+  words: vārdi
+  pageview_measure: skatījumi
+  read_time:
+    unit: min.
+    prompt: lasīšanas
+  relate_posts: Saistītie raksti
+  share: Koplietot
+  button:
+    next: Nākamais raksts
+    previous: Iepriekšējais raksts
+    copy_code:
+      succeed: Nokopēts!
+    share_link:
+      title: Kopēt saiti
+      succeed: Saita veiksmīgi nokopēta!
+
+# Date time format.
+# See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
+df: 
+  post:
+    strftime: "%d.%m.%Y"
+    dayjs: "DD.MM.YYYY"
+
+# categories page
+categories:
+  category_measure:
+    singular: kategorija
+    plural: kategorijas
+  post_measure:
+    singular: raksts
+    plural: raksti
