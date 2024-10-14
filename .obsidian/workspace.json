@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "12c64969a9cba53e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e079d89599a38f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b759acaa6f2ebfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-09-24-Naudas vēsture Latvijā.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "722febb9138c054e",
+    "type": "split",
+    "children": [
+      {
+        "id": "967ab89b4cd2770c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30c4a66f27086630",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3a27fb3fee14946",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91509d6ea0ad98cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2bef1fc850b08f99",
+    "type": "split",
+    "children": [
+      {
+        "id": "810f530c0e39381e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2505374e7f233a5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-09-24-Naudas vēsture Latvijā.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cd8544ac4c8cb14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-09-24-Naudas vēsture Latvijā.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c01b41af8a0686d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "690b23fdbc26af77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-09-24-Naudas vēsture Latvijā.md"
+              }
+            }
+          },
+          {
+            "id": "0ae25f96663ae5a8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "1b759acaa6f2ebfe",
+  "lastOpenFiles": [
+    "piecilati.png",
+    "2eiro.png",
+    "euro.png",
+    "50.png",
+    "20.png",
+    "10centi.png",
+    "2024-09-24-Naudas vēsture Latvijā-1.png",
+    "2lvcenti.png",
+    "1lv cent.png",
+    "2024-09-24-Naudas vēsture Latvijā.png",
+    "1lat.png",
+    "_posts/2024-09-24-Naudas vēsture Latvijā.md",
+    "_posts/2024-08-15-Jaungada-diena.md",
+    "_posts/2024-08-13-Starptautiskās Attiecības.md",
+    "_posts/2024-08-13-Skola.md",
+    "_posts/2024-08-13-Saimniecība.md",
+    "_posts/2024-07-29-Ezeri un Upes.md",
+    "_posts/2024-01-08-Par Latvisku Latviju.md",
+    "_posts/2024-01-04-testcat.md",
+    "_posts/2024-01-02-Piešķiršana.md",
+    "_posts/2024-01-01-testcatgeo.md",
+    "_posts/2024-01-01-Svētki.md",
+    "_posts/2024-01-01-priekšvārdi.md",
+    "_posts/2024-01-01-Administratīvais iedalījums.md"
+  ]
+}
