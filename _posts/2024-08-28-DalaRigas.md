@@ -12,7 +12,7 @@ categories: Dziesmas Populāras
 {: .prompt-info }
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pOQ-E4Hmt1k?si=B3WiK6MsX5lsyhSt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3g7TPO02MaNESuHC4jer3R?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Es zinu daudziem bail  
 Un daudziem sāp mans rajons  

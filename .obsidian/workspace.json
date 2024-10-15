@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-09-11-Mežsaimniecība.md",
+                "file": "_posts/2024-01-01-Administratīvais iedalījums.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2bef1fc850b08f99",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-09-11-Mežsaimniecība.md",
+                "file": "_posts/2024-01-01-Administratīvais iedalījums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-09-11-Mežsaimniecība.md",
+                "file": "_posts/2024-01-01-Administratīvais iedalījums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-09-11-Mežsaimniecība.md"
+                "file": "_posts/2024-01-01-Administratīvais iedalījums.md"
               }
             }
           },
@@ -160,7 +159,32 @@
   },
   "active": "1b759acaa6f2ebfe",
   "lastOpenFiles": [
+    "_posts/2024-01-01-Priekšvārdi.md",
+    "_posts/2024-01-01-Svētki.md",
+    "_posts/2024-01-02-Piešķiršana.md",
+    "_posts/2024-01-08-Par Latvisku Latviju.md",
+    "_posts/2024-07-29-Ezeri un Upes.md",
+    "_posts/2024-08-13-Jānis Čakste.md",
+    "_posts/2024-08-13-Jaunās.md",
+    "_posts/2024-08-13-Rīgas Tehniskā universitāte.md",
+    "_posts/2024-08-13-Saimniecība.md",
+    "_posts/2024-08-13-Skola.md",
+    "_posts/2024-08-13-Starptautiskās Attiecības.md",
+    "_posts/2024-08-15-Jaungada-diena.md",
+    "_posts/2024-08-15-xxx.md",
+    "_posts/2024-08-21-Vispārīga Informācija.md",
+    "_posts/2024-08-24-Himna.md",
+    "_posts/2024-08-26-Karogs.md",
+    "_posts/2024-08-27-ZemMusuKajam.md",
+    "_posts/2024-08-28-DalaRigas.md",
+    "_posts/2024-08-30-Latvijas Satversme.md",
+    "_posts/2024-08-30-Sparni.md",
+    "_posts/2024-09-11-Mežsaimniecība.md",
     "_posts/2024-09-24-Naudas vēsture Latvijā.md",
+    "_posts/2024-01-01-Administratīvais iedalījums.md",
+    "_posts/2024-10-12-test.md",
+    "_posts/2024-08-15-xx.md",
+    "_posts/2024-08-15-x.md",
     "piecilati.png",
     "2eiro.png",
     "euro.png",
@@ -170,18 +194,6 @@
     "2024-09-24-Naudas vēsture Latvijā-1.png",
     "2lvcenti.png",
     "1lv cent.png",
-    "2024-09-24-Naudas vēsture Latvijā.png",
-    "_posts/2024-08-15-Jaungada-diena.md",
-    "_posts/2024-08-13-Starptautiskās Attiecības.md",
-    "_posts/2024-08-13-Skola.md",
-    "_posts/2024-08-13-Saimniecība.md",
-    "_posts/2024-07-29-Ezeri un Upes.md",
-    "_posts/2024-01-08-Par Latvisku Latviju.md",
-    "_posts/2024-01-04-testcat.md",
-    "_posts/2024-01-02-Piešķiršana.md",
-    "_posts/2024-01-01-testcatgeo.md",
-    "_posts/2024-01-01-Svētki.md",
-    "_posts/2024-01-01-priekšvārdi.md",
-    "_posts/2024-01-01-Administratīvais iedalījums.md"
+    "2024-09-24-Naudas vēsture Latvijā.png"
   ]
 }
