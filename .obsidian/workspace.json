@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-09-24-Naudas vēsture Latvijā.md",
+                "file": "_posts/2024-09-11-Mežsaimniecība.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2bef1fc850b08f99",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-09-24-Naudas vēsture Latvijā.md",
+                "file": "_posts/2024-09-11-Mežsaimniecība.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-09-24-Naudas vēsture Latvijā.md",
+                "file": "_posts/2024-09-11-Mežsaimniecība.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-09-24-Naudas vēsture Latvijā.md"
+                "file": "_posts/2024-09-11-Mežsaimniecība.md"
               }
             }
           },
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,6 +160,7 @@
   },
   "active": "1b759acaa6f2ebfe",
   "lastOpenFiles": [
+    "_posts/2024-09-24-Naudas vēsture Latvijā.md",
     "piecilati.png",
     "2eiro.png",
     "euro.png",
@@ -168,8 +171,6 @@
     "2lvcenti.png",
     "1lv cent.png",
     "2024-09-24-Naudas vēsture Latvijā.png",
-    "1lat.png",
-    "_posts/2024-09-24-Naudas vēsture Latvijā.md",
     "_posts/2024-08-15-Jaungada-diena.md",
     "_posts/2024-08-13-Starptautiskās Attiecības.md",
     "_posts/2024-08-13-Skola.md",
