@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-10-20-Izglītības sistēma.md",
+                "file": "_posts/2024-01-01-Administratīvais iedalījums.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-10-20-Izglītības sistēma.md",
+                "file": "_posts/2024-01-01-Administratīvais iedalījums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-10-20-Izglītības sistēma.md",
+                "file": "_posts/2024-01-01-Administratīvais iedalījums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-10-20-Izglītības sistēma.md"
+                "file": "_posts/2024-01-01-Administratīvais iedalījums.md"
               }
             }
           },
@@ -158,11 +158,16 @@
   },
   "active": "1b759acaa6f2ebfe",
   "lastOpenFiles": [
-    "_posts/2024-09-11-Mežsaimniecība.md",
-    "_posts/2024-10-15-Latvijas pilis.md",
+    "_posts/2024-08-27-ZemMusuKajam.md",
+    "_posts/2024-08-28-DalaRigas.md",
     "_posts/2024-09-24-Naudas vēsture Latvijā.md",
     "_posts/2024-10-15-Rīgas Tehniskā universitāte.md",
+    "_posts/2024-10-15-Latvijas pilis.md",
     "_posts/2024-10-20-Izglītības sistēma.md",
+    "_posts/2024-09-11-Mežsaimniecība.md",
+    "_posts/2024-08-30-Sparni.md",
+    "_posts/2024-08-30-Latvijas Satversme.md",
+    "_posts/2024-08-26-Karogs.md",
     "_posts/2024-08-13-Skola.md",
     "_posts/2024-07-29-Ezeri un Upes.md",
     "_posts/2024-01-01-Administratīvais iedalījums.md",
@@ -189,11 +194,6 @@
     "_posts/2024-08-15-Jaungada-diena.md",
     "_posts/2024-08-13-Starptautiskās Attiecības.md",
     "_posts/2024-01-08-Par Latvisku Latviju.md",
-    "_posts/2024-01-01-Priekšvārdi.md",
-    "_posts/2024-01-01-Svētki.md",
-    "_posts/2024-08-26-Karogs.md",
-    "_posts/2024-08-27-ZemMusuKajam.md",
-    "_posts/2024-08-28-DalaRigas.md",
-    "_posts/2024-08-30-Latvijas Satversme.md"
+    "_posts/2024-01-01-Priekšvārdi.md"
   ]
 }
