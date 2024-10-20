@@ -1532,23 +1532,3 @@ search {
     }
   }
 } /* min-width: 1650px */
-
-/* Скрытие сайдбара при наличии класса sidebar-collapsed на body */
-body.sidebar-collapsed .sidebar {
-  display: none; /* Или можно использовать transform для плавного скрытия */
-}
-
-.sidebar-toggle-btn {
-  cursor: pointer;
-  background: none;
-  border: none;
-  font-size: 1.5rem; /* Размер иконки для кнопки */
-  margin-left: 1rem;
-}
-
-@media (max-width: 768px) {
-  .sidebar-toggle-btn {
-    display: none; /* Прячем кнопку на мобильных устройствах */
-  }
-}
-
