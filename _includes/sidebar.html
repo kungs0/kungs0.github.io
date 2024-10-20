@@ -1,10 +1,7 @@
-<!-- The Side Bar -->
-
 <!-- Button to toggle sidebar -->
 <button id="sidebar-toggle" aria-label="Toggle Sidebar" class="sidebar-toggle-btn">
   ☰
 </button>
-
 
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
   <header class="profile-wrapper">
@@ -38,7 +35,7 @@
             <i class="fa-fw {{ tab.icon }}"></i>
             {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
 
-            <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
+            <span>{{ site.data.locales[include.lang].tabs[tab_name] | default: tab.title | upcase }}</span>
           </a>
         </li>
         <!-- .nav-item -->
