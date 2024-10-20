@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Izglītība",
+                "query": "ģeo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,11 +158,13 @@
   },
   "active": "1b759acaa6f2ebfe",
   "lastOpenFiles": [
-    "_posts/2024-10-15-Rīgas Tehniskā universitāte.md",
-    "_posts/2024-08-13-Skola.md",
-    "_posts/2024-09-24-Naudas vēsture Latvijā.md",
+    "_posts/2024-09-11-Mežsaimniecība.md",
     "_posts/2024-10-15-Latvijas pilis.md",
+    "_posts/2024-09-24-Naudas vēsture Latvijā.md",
+    "_posts/2024-10-15-Rīgas Tehniskā universitāte.md",
     "_posts/2024-10-20-Izglītības sistēma.md",
+    "_posts/2024-08-13-Skola.md",
+    "_posts/2024-07-29-Ezeri un Upes.md",
     "_posts/2024-01-01-Administratīvais iedalījums.md",
     "_posts/2024-08-21-Vispārīga Informācija.md",
     "_posts/2024-08-24-Himna.md",
@@ -181,7 +182,6 @@
     "2024-09-24-Naudas vēsture Latvijā.png",
     "20.png",
     "images/prevedu.jpg.crdownload",
-    "_posts/2024-07-29-Ezeri un Upes.md",
     "_posts/2024-08-13-Jaunās.md",
     "_posts/2024-08-15-xx.md",
     "_posts/2024-08-15-x.md",
@@ -194,7 +194,6 @@
     "_posts/2024-08-26-Karogs.md",
     "_posts/2024-08-27-ZemMusuKajam.md",
     "_posts/2024-08-28-DalaRigas.md",
-    "_posts/2024-08-30-Latvijas Satversme.md",
-    "_posts/2024-08-30-Sparni.md"
+    "_posts/2024-08-30-Latvijas Satversme.md"
   ]
 }

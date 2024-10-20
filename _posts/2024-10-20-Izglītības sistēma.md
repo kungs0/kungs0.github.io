@@ -5,6 +5,7 @@ image: images/prevedu.jpg
 ---
 
 > Izglītība Latvijā ir pieejama no pirmsskolas līdz augstākajai izglītībai. Izglītības sistēmu Latvijā reglamentē vairāki likumi, tostarp Izglītības likums (1998) un Augstskolu likums (1995), un tās pamatprincipi ir izklāstīti Latvijas Satversmē, kas nosaka tiesības uz bezmaksas izglītību līdz **vidējās izglītības** līmenim. Izglītība tiek nodrošināta valsts, pašvaldību un privātajās izglītības iestādēs.
+{: .prompt-info } 
 
 4 līmeņi:
 1. Pirmsskolas izglītība — paredzēta bērniem līdz 7 gadu vecumam, un tā ir obligāta no 5 gadu vecuma. Pirmsskolas izglītība koncentrējas uz bērna attīstību un sagatavošanu pamatizglītības apguvei.
