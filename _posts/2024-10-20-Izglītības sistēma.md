@@ -1,6 +1,6 @@
 ---
 title: Izglītības sistēma
-categories: Izglītība
+categories: Dzīve Izglītība
 image: images/prevedu.jpg
 ---
 

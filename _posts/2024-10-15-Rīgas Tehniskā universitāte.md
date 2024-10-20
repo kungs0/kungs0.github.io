@@ -1,5 +1,5 @@
 ---
 title: Rīgas Tehniskā universitāte
-categories: Izglītība Augstskolas
+categories: Dzīve Izglītība
 image: images/rtu.png
 ---
