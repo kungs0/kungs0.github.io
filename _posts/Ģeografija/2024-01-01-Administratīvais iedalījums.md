@@ -1,6 +1,6 @@
 ---
 title: Administratīvais iedalījums
-categories: Ģeogrāfija Reģioni
+categories: Valsts Ģeogrāfija Reģioni
 image: images/previewadm.jpg
 date: 2024-09-07
 ---

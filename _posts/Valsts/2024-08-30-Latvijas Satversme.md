@@ -1,6 +1,6 @@
 ---
 title: Latvijas Satversme
-categories: Valsts Satversme
+categories: Valsts Likumi
 date: 2024-09-03
 image: images/previewsatversme.jpg
 ---

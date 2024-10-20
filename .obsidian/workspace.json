@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e079d89599a38f36",
+        "id": "dc9a3f122fae54ed",
         "type": "tabs",
         "children": [
           {
-            "id": "1b759acaa6f2ebfe",
+            "id": "7c35516499ea2629",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-01-01-Administratīvais iedalījums.md",
+                "file": "_posts/Ģeografija/2024-01-01-Administratīvais iedalījums.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.50152587890625
+    "width": 417.50152587890625
   },
   "right": {
     "id": "2bef1fc850b08f99",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-01-01-Administratīvais iedalījums.md",
+                "file": "_posts/Ģeografija/2024-01-01-Administratīvais iedalījums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-01-01-Administratīvais iedalījums.md",
+                "file": "_posts/Ģeografija/2024-01-01-Administratīvais iedalījums.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-01-01-Administratīvais iedalījums.md"
+                "file": "_posts/Ģeografija/2024-01-01-Administratīvais iedalījums.md"
               }
             }
           },
@@ -156,25 +156,32 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "1b759acaa6f2ebfe",
+  "active": "7c35516499ea2629",
   "lastOpenFiles": [
-    "_posts/2024-08-27-ZemMusuKajam.md",
-    "_posts/2024-08-28-DalaRigas.md",
-    "_posts/2024-09-24-Naudas vēsture Latvijā.md",
-    "_posts/2024-10-15-Rīgas Tehniskā universitāte.md",
-    "_posts/2024-10-15-Latvijas pilis.md",
-    "_posts/2024-10-20-Izglītības sistēma.md",
-    "_posts/2024-09-11-Mežsaimniecība.md",
-    "_posts/2024-08-30-Sparni.md",
-    "_posts/2024-08-30-Latvijas Satversme.md",
-    "_posts/2024-08-26-Karogs.md",
-    "_posts/2024-08-13-Skola.md",
-    "_posts/2024-07-29-Ezeri un Upes.md",
-    "_posts/2024-01-01-Administratīvais iedalījums.md",
-    "_posts/2024-08-21-Vispārīga Informācija.md",
-    "_posts/2024-08-24-Himna.md",
-    "_posts/2024-08-13-Saimniecība.md",
-    "_posts/2024-08-13-Jānis Čakste.md",
+    "_posts/Ģeografija/2024-07-29-Ezeri un Upes.md",
+    "_posts/Ģeografija/2024-01-01-Administratīvais iedalījums.md",
+    "_posts/Valoda/2024-08-21-Vispārīga Informācija.md",
+    "_posts/Ģeografija",
+    "_posts/Valoda",
+    "_posts/Dziesmas",
+    "_posts/Dzīve",
+    "_posts/Mantojums/2024-01-01-Svētki.md",
+    "_posts/Valsts/2024-08-24-Himna.md",
+    "_posts/Valsts/2024-08-26-Karogs.md",
+    "_posts/Valsts/2024-08-30-Latvijas Satversme.md",
+    "_posts/Mantojums",
+    "_posts/Valsts",
+    "_posts/Dziesmas/2024-08-27-ZemMusuKajam.md",
+    "_posts/Dziesmas/2024-08-28-DalaRigas.md",
+    "_posts/Mantojums/2024-09-24-Naudas vēsture Latvijā.md",
+    "_posts/Dzīve/2024-10-15-Rīgas Tehniskā universitāte.md",
+    "_posts/Dzīve/2024-10-15-Latvijas pilis.md",
+    "_posts/Dzīve/2024-10-20-Izglītības sistēma.md",
+    "_posts/Dzīve/2024-09-11-Mežsaimniecība.md",
+    "_posts/Dziesmas/2024-08-30-Sparni.md",
+    "_posts/Dzīve/2024-08-13-Skola.md",
+    "_posts/Dzīve/2024-08-13-Saimniecība.md",
+    "_posts/Dzīve/2024-08-13-Jānis Čakste.md",
     "images/schemaedu.png.md",
     "images/shemaedu.png",
     "Pasted image 20241013164122.png",
@@ -191,9 +198,7 @@
     "_posts/2024-08-15-xx.md",
     "_posts/2024-08-15-x.md",
     "_posts/2024-01-02-Piešķiršana.md",
-    "_posts/2024-08-15-Jaungada-diena.md",
-    "_posts/2024-08-13-Starptautiskās Attiecības.md",
-    "_posts/2024-01-08-Par Latvisku Latviju.md",
-    "_posts/2024-01-01-Priekšvārdi.md"
+    "_posts/Mantojums/2024-08-15-Jaungada-diena.md",
+    "_posts/Dzīve/2024-08-13-Starptautiskās Attiecības.md"
   ]
 }
