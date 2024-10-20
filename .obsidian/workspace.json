@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-10-15-Latvijas pilis.md",
+                "file": "_posts/2024-10-20-Izglītības sistēma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "433ede6990e9f2ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-08-21-Vispārīga Informācija.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:she",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +77,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 202.50152587890625
   },
   "right": {
     "id": "2bef1fc850b08f99",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-10-15-Latvijas pilis.md",
+                "file": "_posts/2024-10-20-Izglītības sistēma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-10-15-Latvijas pilis.md",
+                "file": "_posts/2024-10-20-Izglītības sistēma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-10-15-Latvijas pilis.md"
+                "file": "_posts/2024-10-20-Izglītības sistēma.md"
               }
             }
           },
@@ -137,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,43 +169,44 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "1b759acaa6f2ebfe",
+  "active": "f3a27fb3fee14946",
   "lastOpenFiles": [
-    "_posts/2024-08-13-Jaunās.md",
+    "_posts/2024-08-21-Vispārīga Informācija.md",
+    "_posts/2024-08-24-Himna.md",
+    "_posts/2024-10-20-Izglītības sistēma.md",
+    "_posts/2024-10-15-Rīgas Tehniskā universitāte.md",
     "_posts/2024-10-15-Latvijas pilis.md",
+    "_posts/2024-09-24-Naudas vēsture Latvijā.md",
+    "_posts/2024-08-13-Saimniecība.md",
+    "_posts/2024-08-13-Jānis Čakste.md",
+    "images/schemaedu.png.md",
+    "images/shemaedu.png",
+    "Pasted image 20241013164122.png",
+    "Pasted image 20241013165828.png",
+    "jedanlats.png",
+    "latvijasrubli.png",
+    "euro.png",
+    "drugolat.png",
+    "dalderRiga.png",
+    "2024-09-24-Naudas vēsture Latvijā.png",
+    "20.png",
+    "images/prevedu.jpg.crdownload",
+    "_posts/2024-08-13-Skola.md",
+    "_posts/2024-07-29-Ezeri un Upes.md",
+    "_posts/2024-08-13-Jaunās.md",
     "_posts/2024-08-15-xx.md",
     "_posts/2024-08-15-x.md",
     "_posts/2024-01-02-Piešķiršana.md",
     "_posts/2024-08-15-Jaungada-diena.md",
     "_posts/2024-08-13-Starptautiskās Attiecības.md",
-    "_posts/2024-08-13-Skola.md",
-    "_posts/2024-08-13-Saimniecība.md",
-    "_posts/2024-08-13-Jānis Čakste.md",
-    "_posts/2024-10-15-Rīgas Tehniskā universitāte.md",
-    "images/rtu.png",
-    "_posts/2024-07-29-Ezeri un Upes.md",
     "_posts/2024-01-08-Par Latvisku Latviju.md",
     "_posts/2024-01-01-Priekšvārdi.md",
     "_posts/2024-01-01-Administratīvais iedalījums.md",
-    "images/castle1.jpg",
     "_posts/2024-01-01-Svētki.md",
-    "_posts/2024-08-21-Vispārīga Informācija.md",
-    "_posts/2024-08-24-Himna.md",
     "_posts/2024-08-26-Karogs.md",
     "_posts/2024-08-27-ZemMusuKajam.md",
     "_posts/2024-08-28-DalaRigas.md",
     "_posts/2024-08-30-Latvijas Satversme.md",
-    "_posts/2024-08-30-Sparni.md",
-    "_posts/2024-09-11-Mežsaimniecība.md",
-    "_posts/2024-09-24-Naudas vēsture Latvijā.md",
-    "_posts/2024-10-12-test.md",
-    "piecilati.png",
-    "2eiro.png",
-    "euro.png",
-    "50.png",
-    "20.png",
-    "10centi.png",
-    "2024-09-24-Naudas vēsture Latvijā-1.png",
-    "2lvcenti.png"
+    "_posts/2024-08-30-Sparni.md"
   ]
 }
